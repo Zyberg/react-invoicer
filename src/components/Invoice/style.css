@@ -1,0 +1,13 @@
+.Invoice {
+  width: 50%;
+  background-color: #EEE;
+  border-radius: 0.825rem;
+  margin: 0 auto;
+  margin-top: 10%;
+  padding: 1.5rem;
+}
+
+.Invoice > header {
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+}
